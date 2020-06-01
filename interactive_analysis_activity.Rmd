@@ -1,0 +1,70 @@
+---
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+Here, we'll import the full set of species from the Living Tree Project,
+revision 128.
+
+```{r}
+ltp <- read_csv("ltp_release_128_species.csv")
+```
+
+How many total species are in the table?
+
+How many columns does the table have?
+
+Filter the table to find only species in "Bacteroides."
+
+```{r}
+ltp %>%
+  filter(____)
+```
+
+Select only the accession and species columns, in that order.
+
+```{r}
+ltp %>%
+  select(____)
+```
+
+Count the number of species in each family.
+
+```{r}
+ltp %>%
+  count(____)
+```
+
+Find the length of each 16S gene sequence from the start and end positions.
+
+```{r}
+ltp %>%
+  mutate(seq_length = ____)
+```
+
+Make a label for each species that includes the family name, for example,
+"Enterobacteriaceae - Escherichia coli".
+
+```{r}
+ltp %>%
+  mutate(species_label = ____)
+```
+
+Find the median sequence length in each family.
+
+```{r}
+ltp %>%
+  group_by(____) %>%
+  summarize(median_seq_length = ____)
+```
+
+Filter the table to find the subspecies, that is, the species names that
+contain "subsp".
+
+```{r}
+ltp %>%
+  filter(____)
+```
