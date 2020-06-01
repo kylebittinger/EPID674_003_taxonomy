@@ -1,0 +1,64 @@
+---
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+gg <- read_csv("greengenes_13_8_taxonomy.csv")
+```
+
+## Missing values
+
+This table has a lot of missing values, which are coded as `NA`. Use the
+function `is.na()` to filter based on missing values.
+
+```{r}
+gg %>%
+  filter(!is.na(genus)) %>%
+  filter(num_ref_seqs > 2000)
+```
+
+## Streptococcaceae
+
+Let's see what else is in the Streptococcaceae family.
+
+```{r}
+gg %>%
+  filter(family %in% "Streptococcaceae") %>%
+  select(family, genus, num_ref_seqs)
+```
+
+## Phyla
+
+Here are the total number of reference sequences by phylum.
+
+```{r}
+gg %>%
+  group_by(phylum) %>%
+  summarize(num_ref_seqs_for_phylum = sum(num_ref_seqs))
+```
+
+Wow, some reference sequences don't even have a phylum assignment. Let's look at the sequences that are missing a class assignment to get some more detail.
+
+```{r}
+gg %>%
+  filter(is.na(class)) %>%
+  select(kingdom, phylum, num_ref_seqs)
+```
+
+## Ruminococcus
+
+We talked about Ruminococcus in the lecture. Let's see how many reference
+sequences are filed under the *Ruminococcaceae* vs. the *Lachnospiraceae*
+family. we have to use the `str_detect()` function to search for
+"Ruminococcus", because the genus name might have brackets around it.
+
+```{r}
+gg %>%
+  filter(str_detect(genus, "Ruminococcus")) %>%
+  select(family, genus, num_ref_seqs)
+```
+
