@@ -1,0 +1,201 @@
+family,genus,aerobic_status,gram_stain,spore_formation,saccharolytic,num_species
+Aerococcaceae,Abiotrophia,facultative anaerobe,Gram-positive,non-spore forming,not indicated,1
+Lachnospiraceae,Abyssivirga,obligate anaerobe,not indicated,non-spore forming,saccharolytic,1
+Ruminococcaceae,Acetivibrio,anaerobe (unspecified),Gram-negative,non-spore forming,not indicated,2
+Alcaligenaceae,Achromobacter,aerobe,Gram-negative,non-spore forming,asaccharolytic,14
+Acidaminococcaceae,Acidaminococcus,anaerobe (unspecified),Gram-negative,non-spore forming,mixed,2
+Comamonadaceae,Acidovorax,aerobe,Gram-negative,not indicated,not indicated,15
+Actinomycetaceae,Actinobaculum,facultative anaerobe,Gram-positive,non-spore forming,saccharolytic,1
+Aerococcaceae,Aerococcus,facultative anaerobe,Gram-positive,not indicated,mixed,8
+Nocardioidaceae,Aeromicrobium,aerobe,Gram-positive,non-spore forming,not indicated,12
+Bradyrhizobiaceae,Afipia,not indicated,Gram-negative,not indicated,not indicated,5
+Pasteurellaceae,Aggregatibacter,facultative anaerobe,Gram-negative,not indicated,saccharolytic,3
+Akkermansiaceae,Akkermansia,obligate anaerobe,Gram-negative,not indicated,saccharolytic,1
+Rikenellaceae,Alistipes,anaerobe (unspecified),Gram-negative,not indicated,not indicated,7
+Clostridiaceae,Alkaliphilus,anaerobe (unspecified),Gram-positive,spore forming,not indicated,5
+Prevotellaceae,Alloprevotella,obligate anaerobe,Gram-negative,not indicated,saccharolytic,2
+Phyllobacteriaceae,Aminobacter,not indicated,Gram-negative,non-spore forming,asaccharolytic,6
+Unclassified Clostridiales,Anaerococcus,obligate anaerobe,Gram-positive,not indicated,mixed,7
+Veillonellaceae,Anaeroglobus,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,1
+Ruminococcaceae,Anaerotruncus,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,1
+Unclassified Burkholderiales,Aquabacterium,microaerobe,Gram-negative,not indicated,not indicated,6
+Micrococcaceae,Arthrobacter,aerobe,Gram-positive,non-spore forming,not indicated,47
+Atopobacteriaceae,Atopobium,obligate anaerobe,Gram-positive,non-spore forming,not indicated,6
+Aurantimonadaceae,Aurantimonas,obligate anaerobe,Gram-negative,non-spore forming,not indicated,2
+Rhodocyclaceae,Azoarcus,not indicated,Gram-negative,not indicated,not indicated,9
+Rhodocyclaceae,Azospira,microaerobe,Gram-negative,non-spore forming,saccharolytic,2
+Bacillaceae,Bacillus,aerobe,Gram-variable,not indicated,not indicated,229
+Bacteroidaceae,Bacteroides,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,47
+Porphyromonadaceae,Barnesiella,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,2
+Beutenbergiaceae,Beutenbergia,microaerobe or aerobe,Gram-positive,non-spore forming,not indicated,1
+Bifidobacteriaceae,Bifidobacterium,anaerobe (unspecified),not indicated,not indicated,saccharolytic,56
+Unclassified Clostridiales,Blautia,obligate anaerobe,Gram-positive,mixed,saccharolytic,11
+Alcaligenaceae,Bordetella,not indicated,Gram-negative,not indicated,asaccharolytic,14
+Bradyrhizobiaceae,Bosea,aerobe,Gram-negative,not indicated,not indicated,8
+Bradyrhizobiaceae,Bradyrhizobium,aerobe,Gram-negative,non-spore forming,not indicated,34
+Paenibacillaceae,Brevibacillus,aerobe,Gram-variable,spore forming,not indicated,22
+Caulobacteraceae,Brevundimonas,aerobe,Gram-negative,not indicated,asaccharolytic,26
+Erysipelotrichaceae,Bulleidia,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,1
+Clostridiaceae,Butyricicoccus,obligate anaerobe,Gram-positive,not indicated,not indicated,1
+Porphyromonadaceae,Butyricimonas,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,4
+Clostridiaceae,Caloramator,obligate anaerobe,Gram-negative,spore forming,saccharolytic,9
+Clostridiaceae,Caloranaerobacter,anaerobe (unspecified),Gram-negative,non-spore forming,saccharolytic,1
+Clostridiaceae,Caminicella,anaerobe (unspecified),Gram-negative,spore forming,not indicated,1
+Erysipelotrichaceae,Catenibacterium,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,1
+Lachnospiraceae,Catonella,obligate anaerobe,Gram-negative,non-spore forming,not indicated,1
+Caulobacteraceae,Caulobacter,not indicated,Gram-negative,not indicated,not indicated,9
+Clostridiaceae,Cellulosibacter,obligate anaerobe,Gram-positive,spore forming,not indicated,1
+Lachnospiraceae,Cellulosilyticum,anaerobe (unspecified),not indicated,spore forming,not indicated,2
+Promicromonosporaceae,Cellulosimicrobium,facultative anaerobe,Gram-positive,non-spore forming,not indicated,4
+Selenomonadaceae,Centipeda,anaerobe (unspecified),Gram-negative,non-spore forming,saccharolytic,1
+Christensenellaceae,Christensenella,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,1
+Flavobacteriaceae,Chryseobacterium,aerobe,Gram-negative,non-spore forming,saccharolytic,95
+Enterobacteriaceae,Citrobacter,not indicated,Gram-negative,non-spore forming,saccharolytic,12
+Clostridiaceae,Clostridium,anaerobe (unspecified),Gram-variable,mixed,mixed,173
+Coriobacteriaceae,Collinsella,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,4
+Comamonadaceae,Comamonas,aerobe,Gram-negative,non-spore forming,not indicated,20
+Corynebacteriaceae,Corynebacterium,facultative anaerobe,Gram-positive,non-spore forming,mixed,97
+Acetobacteraceae,Craurococcus,aerobe,Gram-negative,not indicated,not indicated,1
+Enterobacteriaceae,Cronobacter,facultative anaerobe,Gram-negative,not indicated,saccharolytic,10
+Burkholderiaceae,Cupriavidus,not indicated,Gram-negative,not indicated,not indicated,17
+Comamonadaceae,Curvibacter,not indicated,Gram-negative,not indicated,not indicated,4
+Deinococcaceae,Deinococcus,aerobe,Gram-positive,not indicated,not indicated,57
+Comamonadaceae,Delftia,obligate anaerobe,Gram-negative,non-spore forming,asaccharolytic,4
+Peptococcaceae,Desulfosporosinus,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,9
+Peptococcaceae,Desulfotomaculum,obligate anaerobe,Gram-negative,spore forming,not indicated,30
+Hyphomicrobiaceae,Devosia,aerobe,Gram-negative,non-spore forming,not indicated,18
+Veillonellaceae,Dialister,obligate anaerobe,Gram-negative,non-spore forming,asaccharolytic,5
+Dietziaceae,Dietzia,aerobe,Gram-positive,non-spore forming,not indicated,13
+Lachnospiraceae,Dorea,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,2
+Oxalobacteraceae,Duganella,aerobe,Gram-negative,non-spore forming,not indicated,5
+Cytophagaceae,Dyadobacter,aerobe,Gram-negative,not indicated,not indicated,14
+Eggerthellaceae,Eggerthella,obligate anaerobe,Gram-positive,non-spore forming,not indicated,2
+Neisseriaceae,Eikenella,facultative anaerobe,Gram-negative,non-spore forming,asaccharolytic,1
+Moraxellaceae,Enhydrobacter,facultative anaerobe,Gram-negative,not indicated,not indicated,1
+Enterobacteriaceae,Enterobacter,facultative anaerobe,Gram-negative,not indicated,saccharolytic,17
+Enterococcaceae,Enterococcus,facultative anaerobe,Gram-positive,non-spore forming,saccharolytic,50
+Eggerthellaceae,Enterorhabdus,not indicated,Gram-positive,non-spore forming,not indicated,2
+Aerococcaceae,Eremococcus,facultative anaerobe,Gram-positive,not indicated,saccharolytic,1
+Enterobacteriaceae,Escherichia,facultative anaerobe,Gram-negative,not indicated,saccharolytic,5
+Eubacteriaceae,Eubacterium,obligate anaerobe,Gram-positive,non-spore forming,mixed,38
+Aerococcaceae,Facklamia,facultative anaerobe,Gram-positive,non-spore forming,asaccharolytic,6
+Ruminococcaceae,Faecalibacterium,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,1
+Peptostreptococcaceae,Filifactor,not indicated,Gram-variable,spore forming,saccharolytic,2
+Unclassified Clostridiales,Flavonifractor,obligate anaerobe,Gram-variable,mixed,asaccharolytic,1
+Unclassified Clostridiales,Fusibacter,obligate anaerobe,Gram-positive,non-spore forming,not indicated,4
+Fusobacteriaceae,Fusobacterium,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,18
+Eubacteriaceae,Garciella,obligate anaerobe,Gram-positive,spore forming,not indicated,1
+Bifidobacteriaceae,Gardnerella,facultative anaerobe,Gram-variable,not indicated,saccharolytic,1
+Unclassified Bacillales,Gemella,facultative anaerobe,Gram-variable,non-spore forming,saccharolytic,7
+Hyphomicrobiaceae,Gemmiger,obligate anaerobe,Gram-variable,not indicated,saccharolytic,1
+Eggerthellaceae,Gordonibacter,obligate anaerobe,Gram-positive,non-spore forming,asaccharolytic,3
+Carnobacteriaceae,Granulicatella,facultative anaerobe,Gram-positive,non-spore forming,saccharolytic,3
+Acidobacteriaceae,Granulicella,aerobe,Gram-negative,non-spore forming,not indicated,9
+Unclassified Clostridiales,Guggenheimella,obligate anaerobe,Gram-positive,non-spore forming,asaccharolytic,1
+Prevotellaceae,Hallella,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,1
+Unclassified Clostridiales,Helcococcus,facultative anaerobe,Gram-positive,not indicated,saccharolytic,3
+Helicobacteraceae,Helicobacter,microaerobe or anaerobe,Gram-negative,not indicated,not indicated,35
+Oxalobacteraceae,Herbaspirillum,microaerobe or anaerobe,Gram-negative,not indicated,not indicated,12
+Lachnospiraceae,Hespellia,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,2
+Phyllobacteriaceae,Hoeflea,aerobe,Gram-negative,non-spore forming,not indicated,7
+Erysipelotrichaceae,Holdemania,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,1
+Chitinophagaceae,Hydrotalea,aerobe,Gram-negative,not indicated,not indicated,2
+Ruminococcaceae,Intestinimonas,obligate anaerobe,Gram-positive,spore forming,saccharolytic,1
+Oxalobacteraceae,Janthinobacterium,aerobe,Gram-negative,not indicated,not indicated,2
+Lachnospiraceae,Johnsonella,obligate anaerobe,Gram-negative,non-spore forming,asaccharolytic,1
+Synergistaceae,Jonquetella,obligate anaerobe,Gram-negative,non-spore forming,not indicated,1
+Neisseriaceae,Kingella,aerobe,Gram-negative,non-spore forming,not indicated,4
+Micrococcaceae,Kocuria,aerobe,Gram-positive,non-spore forming,not indicated,20
+Lachnospiraceae,Lachnoanaerobaculum,obligate anaerobe,Gram-variable,spore forming,saccharolytic,3
+Lachnospiraceae,Lachnobacterium,obligate anaerobe,Gram-positive,non-spore forming,not indicated,1
+Lachnospiraceae,Lachnospira,anaerobe (unspecified),Gram-positive,non-spore forming,saccharolytic,1
+Lactobacillaceae,Lactobacillus,facultative anaerobe,Gram-positive,non-spore forming,saccharolytic,191
+Streptococcaceae,Lactococcus,facultative anaerobe,Gram-positive,non-spore forming,saccharolytic,15
+Leptotrichiaceae,Leptotrichia,variable,Gram-negative,not indicated,saccharolytic,7
+Burkholderiaceae,Limnobacter,obligate anaerobe,Gram-negative,non-spore forming,asaccharolytic,2
+Veillonellaceae,Megasphaera,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,7
+Phyllobacteriaceae,Mesorhizobium,aerobe,Gram-negative,non-spore forming,saccharolytic,41
+Methylophilaceae,Methylophilus,aerobe,Gram-negative,non-spore forming,saccharolytic,6
+Rhodocyclaceae,Methyloversatilis,not indicated,Gram-negative,not indicated,not indicated,3
+Microbacteriaceae,Microbacterium,aerobe,Gram-positive,not indicated,not indicated,97
+Micrococcaceae,Micrococcus,aerobe,Gram-positive,non-spore forming,not indicated,9
+Propionibacteriaceae,Microlunatus,aerobe,Gram-positive,non-spore forming,not indicated,7
+Lachnospiraceae,Mobilitalea,obligate anaerobe,Gram-positive,spore forming,not indicated,1
+Actinomycetaceae,Mobiluncus,anaerobe (unspecified),Gram-variable,non-spore forming,saccharolytic,3
+Unclassified Clostridiales,Mogibacterium,obligate anaerobe,Gram-positive,non-spore forming,asaccharolytic,5
+Lachnospiraceae,Moryella,obligate anaerobe,Gram-variable,non-spore forming,saccharolytic,1
+Unclassified Clostridiales,Murdochiella,obligate anaerobe,Gram-positive,not indicated,asaccharolytic,1
+Lachnospiraceae,Murimonas,obligate anaerobe,Gram-positive,non-spore forming,not indicated,1
+Neisseriaceae,Neisseria,aerobe,Gram-negative,non-spore forming,mixed,20
+Chitinophagaceae,Niastella,aerobe,Gram-negative,not indicated,not indicated,5
+Sphingomonadaceae,Novosphingobium,obligate anaerobe,Gram-negative,non-spore forming,not indicated,36
+Brucellaceae,Ochrobactrum,obligate anaerobe,Gram-negative,not indicated,saccharolytic,17
+Porphyromonadaceae,Odoribacter,anaerobe (unspecified),Gram-positive,non-spore forming,not indicated,3
+Sphingobacteriaceae,Olivibacter,obligate anaerobe,Gram-negative,non-spore forming,not indicated,6
+Atopobacteriaceae,Olsenella,obligate anaerobe,Gram-positive,non-spore forming,not indicated,4
+Lachnospiraceae,Oribacterium,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,3
+Oscillospiraceae,Oscillibacter,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,2
+Clostridiaceae,Oxobacter,obligate anaerobe,Gram-positive,spore forming,not indicated,1
+Ruminococcaceae,Papillibacter,obligate anaerobe,Gram-positive,non-spore forming,not indicated,1
+Porphyromonadaceae,Parabacteroides,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,8
+Rhodobacteraceae,Paracoccus,obligate anaerobe,Gram-negative,non-spore forming,asaccharolytic,46
+Lactobacillaceae,Paralactobacillus,not indicated,Gram-positive,non-spore forming,saccharolytic,1
+Prevotellaceae,Paraprevotella,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,2
+Bifidobacteriaceae,Parascardovia,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,1
+Sutterellaceae,Parasutterella,obligate anaerobe,Gram-negative,non-spore forming,asaccharolytic,2
+Eggerthellaceae,Parvibacter,obligate anaerobe,Gram-positive,non-spore forming,not indicated,1
+Patulibacteraceae,Patulibacter,aerobe,Gram-positive,non-spore forming,not indicated,4
+Sphingobacteriaceae,Pedobacter,obligate anaerobe,Gram-negative,not indicated,saccharolytic,61
+Syntrophomonadaceae,Pelospora,obligate anaerobe,not indicated,spore forming,not indicated,1
+Peptococcaceae,Pelotomaculum,obligate anaerobe,Gram-variable,spore forming,not indicated,5
+Peptoniphilaceae,Peptoniphilus,obligate anaerobe,Gram-positive,non-spore forming,asaccharolytic,15
+Comamonadaceae,Polaromonas,aerobe,Gram-negative,not indicated,not indicated,7
+Porphyromonadaceae,Porphyromonas,obligate anaerobe,Gram-negative,non-spore forming,asaccharolytic,17
+Prevotellaceae,Prevotella,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,46
+Propionibacteriaceae,Propionibacterium,microaerobe or anaerobe,Gram-positive,non-spore forming,saccharolytic,16
+Propionibacteriaceae,Propionimicrobium,anaerobe (unspecified),Gram-positive,non-spore forming,saccharolytic,1
+Lachnospiraceae,Pseudobutyrivibrio,anaerobe (unspecified),Gram-negative,non-spore forming,not indicated,2
+Unclassified Clostridiales,Pseudoflavonifractor,obligate anaerobe,Gram-negative,non-spore forming,not indicated,1
+Pseudomonadaceae,Pseudomonas,variable,Gram-negative,not indicated,mixed,176
+Eubacteriaceae,Pseudoramibacter,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,1
+Lysobacteraceae,Pseudoxanthomonas,aerobe,Gram-negative,not indicated,not indicated,17
+Moraxellaceae,Psychrobacter,aerobe,Gram-negative,non-spore forming,not indicated,37
+Synergistaceae,Pyramidobacter,obligate anaerobe,not indicated,not indicated,asaccharolytic,1
+Burkholderiaceae,Ralstonia,aerobe,Gram-negative,not indicated,not indicated,8
+Lachnospiraceae,Robinsoniella,anaerobe (unspecified),Gram-positive,spore forming,saccharolytic,1
+Lachnospiraceae,Roseburia,obligate anaerobe,Gram-negative,non-spore forming,saccharolytic,5
+Micrococcaceae,Rothia,microaerobe or aerobe,not indicated,non-spore forming,saccharolytic,7
+Ruminococcaceae,Ruminococcus,obligate anaerobe,Gram-positive,not indicated,saccharolytic,10
+Selenomonadaceae,Schwartzia,anaerobe (unspecified),Gram-negative,non-spore forming,asaccharolytic,1
+Chitinophagaceae,Sediminibacterium,obligate anaerobe,Gram-negative,not indicated,not indicated,3
+Lachnospiraceae,Shuttleworthia,obligate anaerobe,Gram-positive,non-spore forming,saccharolytic,1
+Eggerthellaceae,Slackia,obligate anaerobe,Gram-positive,non-spore forming,asaccharolytic,6
+Leptotrichiaceae,Sneathia,anaerobe (unspecified),Gram-negative,not indicated,saccharolytic,1
+Unclassified Clostridiales,Soehngenia,anaerobe (unspecified),Gram-positive,spore forming,saccharolytic,1
+Sphingomonadaceae,Sphingobium,aerobe,Gram-negative,non-spore forming,asaccharolytic,41
+Sphingomonadaceae,Sphingomonas,aerobe,Gram-negative,non-spore forming,asaccharolytic,82
+Sphingomonadaceae,Sphingopyxis,aerobe,Gram-positive,non-spore forming,not indicated,19
+Ruminococcaceae,Sporobacter,obligate anaerobe,Gram-positive,spore forming,not indicated,1
+Lachnospiraceae,Sporobacterium,obligate anaerobe,Gram-positive,spore forming,asaccharolytic,1
+Staphylococcaceae,Staphylococcus,facultative anaerobe,Gram-positive,not indicated,saccharolytic,61
+Lysobacteraceae,Stenotrophomonas,not indicated,Gram-negative,non-spore forming,not indicated,12
+Lachnospiraceae,Stomatobaculum,obligate anaerobe,Gram-variable,non-spore forming,saccharolytic,1
+Streptococcaceae,Streptococcus,facultative anaerobe,Gram-positive,non-spore forming,saccharolytic,102
+Acidaminococcaceae,Succiniclasticum,not indicated,Gram-negative,non-spore forming,not indicated,1
+Succinivibrionaceae,Succinivibrio,anaerobe (unspecified),Gram-negative,non-spore forming,saccharolytic,1
+Rhodocyclaceae,Sulfuritalea,facultative anaerobe,Gram-negative,non-spore forming,not indicated,1
+Sutterellaceae,Sutterella,microaerobe or anaerobe,Gram-negative,not indicated,asaccharolytic,3
+Syntrophomonadaceae,Syntrophothermus,obligate anaerobe,Gram-negative,not indicated,not indicated,1
+Porphyromonadaceae,Tannerella,anaerobe (unspecified),Gram-negative,not indicated,not indicated,1
+Peptostreptococcaceae,Tepidibacter,anaerobe (unspecified),Gram-positive,spore forming,not indicated,3
+Clostridiaceae,Tepidimicrobium,anaerobe (unspecified),Gram-positive,non-spore forming,not indicated,2
+Clostridiaceae,Terrisporobacter,anaerobe (unspecified),Gram-variable,spore forming,not indicated,3
+Peptococcaceae,Thermincola,anaerobe (unspecified),Gram-positive,non-spore forming,not indicated,2
+Clostridiaceae,Thermohalobacter,obligate anaerobe,Gram-negative,non-spore forming,not indicated,1
+Syntrophomonadaceae,Thermosyntropha,obligate anaerobe,Gram-variable,not indicated,not indicated,2
+Unclassified Clostridiales,Tissierella,obligate anaerobe,Gram-negative,non-spore forming,mixed,4
+Tsukamurellaceae,Tsukamurella,aerobe,Gram-positive,non-spore forming,not indicated,13
+Erysipelotrichaceae,Turicibacter,anaerobe (unspecified),Gram-positive,non-spore forming,not indicated,1
+Oxalobacteraceae,Undibacterium,not indicated,Gram-negative,non-spore forming,not indicated,9
+Comamonadaceae,Variovorax,aerobe,not indicated,not indicated,saccharolytic,8
+Veillonellaceae,Veillonella,anaerobe (unspecified),Gram-negative,non-spore forming,mixed,13

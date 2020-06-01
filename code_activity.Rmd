@@ -1,0 +1,127 @@
+---
+title: "Coding topic: tables"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+The file "genus_info.csv" contains phenotype information for 200 bacterial
+genera. The values were extracted from genus descriptions in the original
+literature or in Bergey's Manual. Credit for the data set goes to Celeste
+Gaughain, who completed the work as an undergraduate summer intern in 2017.
+
+For the code exercise, I removed a few columns from the original data and
+added a new column for the number of species in each genus. The number of
+species is taken from the Living Tree Project release 128.
+
+In the first code block, we read a CSV file into R using the function 
+`read_csv()`. We use the left arrow `<-` to assign the data table to a new
+variable named `genus_info`.
+
+```{r}
+genus_info <- read_csv("genus_info.csv")
+```
+
+Data tables occupy a central role in data analysis for science and statistics.
+Data tables go by a few different names, like data frames, "tibbles", or simply
+tables.
+
+Data tables have rows and columns. Each row is supposed to correspond to one
+"observation." Sometimes it's a little unclear what constitutes an observation,
+but that's the idea you should keep in mind.
+
+Each column represents something that you arranged or measured for the
+observation. The values in each column are all of the same type. For example,
+the `gram_stain` column contains text or character values. The `num_species`
+column contains numbers.
+
+We will cover five things that you can do with data tables. I think these five
+activities will enable you to accomplish about 80% of the things you will ever
+need to do with a data table.
+
+## Filter rows with `filter()`
+
+The first thing we'll need to do is to find observations that meet some
+criteria. The `filter()` function does this. Let's find the rows where the
+family is Enterobacteriaceae.
+
+```{r}
+genus_info %>%
+  filter(family %in% "Enterobacteriaceae")
+```
+
+The command begins with the name of the table, `genus_info`. Then, we use a
+pipe, `%>%`, to pass the table to the `filter()` function.
+
+Inside the parentheses of the filter function, we write a condition that must
+be met for each row to be retained. Notice that the column name, `family`, is
+not in quotes, but the value, `"Enterobacteriaceae"`, is in quotes.
+
+When filtering based on character columns, you'll often use the functions
+`%in%` to specify allowed values or `str_detect()` to look for a pattern in
+the values. When filtering based on numeric columns, you'll often use
+mathematical expressions like `>`, `>=` (greater than or equal), `<`, or `<=`
+(less than or equal). I recommend always using `%in%` when testing for
+equality, for example, `filter(x %in% 3)`. It seems weird, but it will keep
+you out of trouble. Finally, the exclamation point means "not," for example
+`filter(!(family %in% "Enterobacteriaceae"))` would select everything *but*
+the rows above.
+
+## Select columns with `select()`
+
+We can use the `select()` function to choose which columns to keep. This is
+how we select for the columns `genus` and `gram_stain`.
+
+```{r}
+genus_info %>%
+  select(genus, gram_stain)
+```
+
+## Create new columns with `mutate()`
+
+We can create new columns in the table with `mutate()`.
+
+To create new character columns, you'll often use the functions `str_replace()`
+to replace patterns or `str_glue()` to "glue" together values from existing
+columns.
+
+```{r eval=FALSE}
+genus_info %>%
+  mutate(description = str_glue("{genus}, a {gram_stain} bacteria"))
+```
+
+To create new numeric columns, you'll often use matematical functions like `+`,
+`-`, `*`, `/`, `log()`, or `sqrt()`.
+
+## Compute aggregate values with `group_by()` and `summarize()`
+
+We compute new columns with aggregate values in two steps. First, we group rows
+in the table with `group_by()`. Then, we use `summarize()` to carry out the
+computation within each group.
+
+For example, here is how we compute the total number of species for each family
+in the table:
+
+```{r}
+genus_info %>%
+  group_by(family) %>%
+  summarize(num_species_for_family = sum(num_species))
+```
+
+To summarize numeric columns, you'll often use functions like `sum()`,
+`mean()`, `median()`, or `sd()`. The special function `n()` gives the number
+of rows in each group, if you simply want to tally the rows.
+
+## Count unique values with `count()`
+
+Tallying the number of rows in each group is such a common operation that we
+have a dedicated function for it: `count()`. Here is how we tabulate the number
+of rows with each value of `gram_stain`:
+
+```{r}
+genus_info %>%
+  count(gram_stain)
+```
+
